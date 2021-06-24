@@ -13,6 +13,7 @@ import '../styles/auth.scss'
 
 export function NewRoom() {
     //const { user } = useAuth();
+    
 
     return(
         <div id="page-auth">
